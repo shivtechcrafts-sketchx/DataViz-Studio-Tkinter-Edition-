@@ -1,4 +1,6 @@
 # DataViz-Studio-Tkinter-Edition-
+<img width="1920" height="1080" alt="Screenshot 2026-01-19 134121" src="https://github.com/user-attachments/assets/d380279d-32d9-4760-96ec-b6fa6308e225" />
+
 
 🚀 What Makes VizDesk Powerful
 
